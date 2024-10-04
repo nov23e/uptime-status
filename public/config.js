@@ -1,12 +1,12 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '极客青年云探针',
+  SiteName: 'monose status',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'ur894242-90d1eb90acc82624bcaed27a',
+    'u885758-64660479d575300a5e039ba5',
   ],
 
   // 日志天数
@@ -19,15 +19,15 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://up.java666.cn'
+      url: 'https://monose.net'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/geekyouth/uptime-status'
+      url: 'https://github.com/nov23e'
     },
     {
-      text: '导航',
-      url: 'https://home.java666.cn'
+      text: 'Wikipedia',
+      url: 'https://zh.m.wikipedia.org/wiki/User:Iswxp'
     },
   ],
 };
